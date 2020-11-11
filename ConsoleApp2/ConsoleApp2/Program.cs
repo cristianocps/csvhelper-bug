@@ -40,7 +40,7 @@ namespace ConsoleApp2
                 writeStream.Position = 0;
                 var csvText = Encoding.UTF8.GetString(writeStream.ToArray());
 
-                File.WriteAllText(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "results.csv"), csvText, Encoding.UTF8);
+                File.WriteAllText(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../../", "results.csv"), csvText, Encoding.UTF8);
             }
         }
     }
