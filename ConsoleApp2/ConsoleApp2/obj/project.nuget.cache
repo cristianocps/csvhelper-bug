@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/PWwZfevp0s7/vCMgT5lObanBNMkYDN+jxWPAWwanU5NlQAWslij83V+pwb04AjVYbIEPZcfhyBQyfq+1cTbQw==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\Pessoal\\csvhelper-bug\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist\\.nuget\\packages\\csvhelper\\15.0.10\\csvhelper.15.0.10.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
